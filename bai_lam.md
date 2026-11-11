@@ -146,9 +146,9 @@ Y
 
 > README.md, .gitignore và .env.example được chấm trực tiếp trên file ở gốc dự án. Đánh dấu `[x]` vào các mục đã làm để tự kiểm tra.
 
-- [ ] README.md: Heading 1, mô tả có **in đậm** và *in nghiêng*, bảng, code block, task list, blockquote
-- [ ] .gitignore có dòng `.env` (tên file đúng, không có đuôi .txt)
-- [ ] .env.example có đủ tên biến, giá trị để trống (tên file đúng, không có đuôi .txt)
+- [X] README.md: Heading 1, mô tả có **in đậm** và *in nghiêng*, bảng, code block, task list, blockquote
+- [X] .gitignore có dòng `.env` (tên file đúng, không có đuôi .txt)
+- [X] .env.example có đủ tên biến, giá trị để trống (tên file đúng, không có đuôi .txt)
 
 ## 4.6. Kiểm tra trang web bằng DevTools (F12) và báo cáo lỗi
 

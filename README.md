@@ -11,6 +11,6 @@ Code block: Get-ChildItem -Recurse -Force
 
 Task list: 
 - [X] Sắp xếp thư mục dự án
-- [ ]Upload dự án lên GitHub
+- []Upload dự án lên GitHub
 
 Blockquote: Không upload file .env len GitHub.
